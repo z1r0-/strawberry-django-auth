@@ -2885,4 +2885,4 @@ captcha = ["pillow"]
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.10,<3.14"
-content-hash = "01482026ddf3e642599b79ca149ac5856798550e14dc49a53fb64d22144e8fba"
+content-hash = "fcbac1ba3d1536f73eacc8fafe9b8216263afcd1fa7120eeac96a002afdd19fd"
