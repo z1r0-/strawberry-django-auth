@@ -21,11 +21,11 @@ classifiers = [
 packages = [{ include = "gqlauth" }]
 
 [tool.poetry.dependencies]
-python = ">=3.8,<3.13"
-Django = ">=3.2,<5.1"
+python = ">=3.10,<3.14"
+Django = ">=3.2,<5.2"
 PyJWT = ">=2.6.0,<3.0"
-pillow = { version = ">=9.5,<11.0", extras = ["captcha"] }
-django-stubs = { extras = ["compatible-mypy"], version = "^4.2.0" }
+pillow = { version = ">=9.5,<13.0", extras = ["captcha"] }
+django-stubs = { extras = ["compatible-mypy"], version = "^5.2.9" }
 strawberry-graphql-django = ">=0.47.0"
 
 [tool.poetry.extras]
